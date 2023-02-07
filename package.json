@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@operandinc/sdk": "^4.1.20"
+  }
+}
