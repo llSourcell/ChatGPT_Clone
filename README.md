@@ -18,7 +18,7 @@ of a React template, and 2 important connections: the OpenAI API and the Operand
 
 1. Git clone this repository
 2. cd into the the client/ folder
-3. Change line 55 URL to localhost:3080
+3. Change file client/src/App.js at line 31: URL to localhost:3080
 4. npm install
 5. npm start (starts the client)
 6. cd ../ 
